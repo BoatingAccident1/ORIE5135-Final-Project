@@ -1,0 +1,218 @@
+{
+  "instance_01": {
+    "m": 80,
+    "R": 25,
+    "F1": {
+      "formulation": "F1",
+      "lp_relaxation": 16.320000000000025,
+      "solve_time_s": 21.486,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 17.0,
+      "obj_bound": 17.0
+    },
+    "F2": {
+      "formulation": "F2",
+      "lp_relaxation": 16.32000000000001,
+      "solve_time_s": 184.522,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 17.0,
+      "obj_bound": 17.0
+    }
+  },
+  "instance_02": {
+    "m": 82,
+    "R": 25,
+    "F1": {
+      "formulation": "F1",
+      "lp_relaxation": 16.080000000000013,
+      "solve_time_s": 8.548,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 17.0,
+      "obj_bound": 17.0
+    },
+    "F2": {
+      "formulation": "F2",
+      "lp_relaxation": 16.07999999999999,
+      "solve_time_s": 97.566,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 17.0,
+      "obj_bound": 17.0
+    }
+  },
+  "instance_03": {
+    "m": 83,
+    "R": 25,
+    "F1": {
+      "formulation": "F1",
+      "lp_relaxation": 16.279999999999987,
+      "solve_time_s": 15.622,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 17.0,
+      "obj_bound": 17.0
+    },
+    "F2": {
+      "formulation": "F2",
+      "lp_relaxation": 16.280000000000005,
+      "solve_time_s": 143.918,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 17.0,
+      "obj_bound": 17.0
+    }
+  },
+  "instance_04": {
+    "m": 87,
+    "R": 25,
+    "F1": {
+      "formulation": "F1",
+      "lp_relaxation": 16.76000000000001,
+      "solve_time_s": 45.133,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 17.0,
+      "obj_bound": 17.0
+    },
+    "F2": {
+      "formulation": "F2",
+      "lp_relaxation": 16.75999999999999,
+      "solve_time_s": 600.127,
+      "node_count": 1,
+      "status": 9,
+      "optimal": false,
+      "obj_val": 18.0,
+      "obj_bound": 17.0
+    }
+  },
+  "instance_05": {
+    "m": 87,
+    "R": 25,
+    "F1": {
+      "formulation": "F1",
+      "lp_relaxation": 16.60000000000001,
+      "solve_time_s": 43.228,
+      "node_count": 523,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 17.0,
+      "obj_bound": 17.0
+    },
+    "F2": {
+      "formulation": "F2",
+      "lp_relaxation": 16.600000000000005,
+      "solve_time_s": 600.148,
+      "node_count": 1,
+      "status": 9,
+      "optimal": false,
+      "obj_val": 18.0,
+      "obj_bound": 17.0
+    }
+  },
+  "instance_06": {
+    "m": 87,
+    "R": 25,
+    "F1": {
+      "formulation": "F1",
+      "lp_relaxation": 17.76000000000003,
+      "solve_time_s": 52.068,
+      "node_count": 2295,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 18.0,
+      "obj_bound": 18.0
+    },
+    "F2": {
+      "formulation": "F2",
+      "lp_relaxation": 17.76,
+      "solve_time_s": 600.16,
+      "node_count": 1,
+      "status": 9,
+      "optimal": false,
+      "obj_val": 19.0,
+      "obj_bound": 18.0
+    }
+  },
+  "instance_07": {
+    "m": 82,
+    "R": 25,
+    "F1": {
+      "formulation": "F1",
+      "lp_relaxation": 16.879999999999992,
+      "solve_time_s": 600.044,
+      "node_count": 118886,
+      "status": 9,
+      "optimal": false,
+      "obj_val": 18.0,
+      "obj_bound": 17.0
+    },
+    "F2": {
+      "formulation": "F2",
+      "lp_relaxation": 16.880000000000006,
+      "solve_time_s": 600.111,
+      "node_count": 2096,
+      "status": 9,
+      "optimal": false,
+      "obj_val": 18.0,
+      "obj_bound": 17.0
+    }
+  },
+  "instance_08": {
+    "m": 85,
+    "R": 25,
+    "F1": {
+      "formulation": "F1",
+      "lp_relaxation": 16.83999999999999,
+      "solve_time_s": 600.06,
+      "node_count": 100675,
+      "status": 9,
+      "optimal": false,
+      "obj_val": 18.0,
+      "obj_bound": 17.0
+    },
+    "F2": {
+      "formulation": "F2",
+      "lp_relaxation": 16.840000000000007,
+      "solve_time_s": 600.094,
+      "node_count": 1,
+      "status": 9,
+      "optimal": false,
+      "obj_val": 18.0,
+      "obj_bound": 17.0
+    }
+  },
+  "instance_09": {
+    "m": 90,
+    "R": 25,
+    "F1": {
+      "formulation": "F1",
+      "lp_relaxation": 18.000000000000014,
+      "solve_time_s": 600.026,
+      "node_count": 28127,
+      "status": 9,
+      "optimal": false,
+      "obj_val": 19.0,
+      "obj_bound": 18.0
+    },
+    "F2": {
+      "formulation": "F2",
+      "lp_relaxation": 18.00000000000001,
+      "solve_time_s": 600.109,
+      "node_count": 1,
+      "status": 9,
+      "optimal": false,
+      "obj_val": 20.0,
+      "obj_bound": 18.0
+    }
+  }
+}

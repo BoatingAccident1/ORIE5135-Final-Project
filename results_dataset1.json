@@ -1,0 +1,362 @@
+{
+  "instance_01": {
+    "m": 35,
+    "R": 25,
+    "F1": {
+      "formulation": "F1",
+      "lp_relaxation": 6.320000000000004,
+      "solve_time_s": 2.735,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 8.0,
+      "obj_bound": 8.0
+    },
+    "F2": {
+      "formulation": "F2",
+      "lp_relaxation": 6.319999999999999,
+      "solve_time_s": 5.787,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 8.0,
+      "obj_bound": 8.0
+    },
+    "F3": {
+      "formulation": "F3",
+      "n_groupings": 2573,
+      "enum_time_s": 0.012,
+      "lp_relaxation": 7.183333333333333,
+      "solve_time_s": 0.031,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 8.0,
+      "obj_bound": 8.0
+    }
+  },
+  "instance_02": {
+    "m": 38,
+    "R": 25,
+    "F1": {
+      "formulation": "F1",
+      "lp_relaxation": 7.320000000000003,
+      "solve_time_s": 2.618,
+      "node_count": 904,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 9.0,
+      "obj_bound": 9.0
+    },
+    "F2": {
+      "formulation": "F2",
+      "lp_relaxation": 7.319999999999995,
+      "solve_time_s": 7.797,
+      "node_count": 561,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 9.0,
+      "obj_bound": 9.0
+    },
+    "F3": {
+      "formulation": "F3",
+      "n_groupings": 2809,
+      "enum_time_s": 0.012,
+      "lp_relaxation": 7.920634920634918,
+      "solve_time_s": 0.085,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 9.0,
+      "obj_bound": 9.0
+    }
+  },
+  "instance_03": {
+    "m": 40,
+    "R": 25,
+    "F1": {
+      "formulation": "F1",
+      "lp_relaxation": 7.88,
+      "solve_time_s": 2.008,
+      "node_count": 140,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 9.0,
+      "obj_bound": 9.0
+    },
+    "F2": {
+      "formulation": "F2",
+      "lp_relaxation": 7.8800000000000034,
+      "solve_time_s": 7.241,
+      "node_count": 154,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 9.0,
+      "obj_bound": 9.0
+    },
+    "F3": {
+      "formulation": "F3",
+      "n_groupings": 4209,
+      "enum_time_s": 0.034,
+      "lp_relaxation": 8.118712273641853,
+      "solve_time_s": 0.138,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 9.0,
+      "obj_bound": 9.0
+    }
+  },
+  "instance_04": {
+    "m": 60,
+    "R": 25,
+    "F1": {
+      "formulation": "F1",
+      "lp_relaxation": 12.840000000000005,
+      "solve_time_s": 120.018,
+      "node_count": 79831,
+      "status": 9,
+      "optimal": false,
+      "obj_val": 14.0,
+      "obj_bound": 13.0
+    },
+    "F2": {
+      "formulation": "F2",
+      "lp_relaxation": 12.84000000000001,
+      "solve_time_s": 90.789,
+      "node_count": 3041,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 13.0,
+      "obj_bound": 13.0
+    },
+    "F3": {
+      "formulation": "F3",
+      "n_groupings": 13667,
+      "enum_time_s": 0.108,
+      "lp_relaxation": 12.839999999999998,
+      "solve_time_s": 0.757,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 13.0,
+      "obj_bound": 13.0
+    }
+  },
+  "instance_05": {
+    "m": 63,
+    "R": 25,
+    "F1": {
+      "formulation": "F1",
+      "lp_relaxation": 12.39999999999999,
+      "solve_time_s": 14.462,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 13.0,
+      "obj_bound": 13.0
+    },
+    "F2": {
+      "formulation": "F2",
+      "lp_relaxation": 12.399999999999988,
+      "solve_time_s": 27.634,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 13.0,
+      "obj_bound": 13.0
+    },
+    "F3": {
+      "formulation": "F3",
+      "n_groupings": 21703,
+      "enum_time_s": 0.154,
+      "lp_relaxation": 12.4,
+      "solve_time_s": 0.523,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 13.0,
+      "obj_bound": 13.0
+    }
+  },
+  "instance_06": {
+    "m": 65,
+    "R": 25,
+    "F1": {
+      "formulation": "F1",
+      "lp_relaxation": 12.88,
+      "solve_time_s": 120.077,
+      "node_count": 29462,
+      "status": 9,
+      "optimal": false,
+      "obj_val": 14.0,
+      "obj_bound": 13.0
+    },
+    "F2": {
+      "formulation": "F2",
+      "lp_relaxation": 12.880000000000004,
+      "solve_time_s": 120.047,
+      "node_count": 2826,
+      "status": 9,
+      "optimal": false,
+      "obj_val": 14.0,
+      "obj_bound": 13.0
+    },
+    "F3": {
+      "formulation": "F3",
+      "n_groupings": 18516,
+      "enum_time_s": 0.152,
+      "lp_relaxation": 12.880000000000003,
+      "solve_time_s": 4.114,
+      "node_count": 413,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 13.0,
+      "obj_bound": 13.0
+    }
+  },
+  "instance_07": {
+    "m": 68,
+    "R": 25,
+    "F1": {
+      "formulation": "F1",
+      "lp_relaxation": 12.680000000000012,
+      "solve_time_s": 27.188,
+      "node_count": 3331,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 13.0,
+      "obj_bound": 13.0
+    },
+    "F2": {
+      "formulation": "F2",
+      "lp_relaxation": 12.679999999999987,
+      "solve_time_s": 117.075,
+      "node_count": 3009,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 13.0,
+      "obj_bound": 13.0
+    },
+    "F3": {
+      "formulation": "F3",
+      "n_groupings": 30495,
+      "enum_time_s": 0.327,
+      "lp_relaxation": 12.680000000000001,
+      "solve_time_s": 2.828,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 13.0,
+      "obj_bound": 13.0
+    }
+  },
+  "instance_08": {
+    "m": 75,
+    "R": 25,
+    "F1": {
+      "formulation": "F1",
+      "lp_relaxation": 15.359999999999978,
+      "solve_time_s": 20.546,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 16.0,
+      "obj_bound": 16.0
+    },
+    "F2": {
+      "formulation": "F2",
+      "lp_relaxation": 15.359999999999982,
+      "solve_time_s": 40.246,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 16.0,
+      "obj_bound": 16.0
+    },
+    "F3": {
+      "formulation": "F3",
+      "n_groupings": 34906,
+      "enum_time_s": 0.275,
+      "lp_relaxation": 15.359999999999998,
+      "solve_time_s": 0.618,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 16.0,
+      "obj_bound": 16.0
+    }
+  },
+  "instance_09": {
+    "m": 75,
+    "R": 25,
+    "F1": {
+      "formulation": "F1",
+      "lp_relaxation": 14.159999999999986,
+      "solve_time_s": 6.489,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 15.0,
+      "obj_bound": 15.0
+    },
+    "F2": {
+      "formulation": "F2",
+      "lp_relaxation": 14.15999999999998,
+      "solve_time_s": 106.309,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 15.0,
+      "obj_bound": 15.0
+    },
+    "F3": {
+      "formulation": "F3",
+      "n_groupings": 42680,
+      "enum_time_s": 0.362,
+      "lp_relaxation": 14.160000000000002,
+      "solve_time_s": 1.007,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 15.0,
+      "obj_bound": 15.0
+    }
+  },
+  "instance_10": {
+    "m": 75,
+    "R": 25,
+    "F1": {
+      "formulation": "F1",
+      "lp_relaxation": 14.680000000000009,
+      "solve_time_s": 29.915,
+      "node_count": 1446,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 15.0,
+      "obj_bound": 15.0
+    },
+    "F2": {
+      "formulation": "F2",
+      "lp_relaxation": 14.679999999999982,
+      "solve_time_s": 120.035,
+      "node_count": 1,
+      "status": 9,
+      "optimal": false,
+      "obj_val": 16.0,
+      "obj_bound": 15.0
+    },
+    "F3": {
+      "formulation": "F3",
+      "n_groupings": 32469,
+      "enum_time_s": 0.269,
+      "lp_relaxation": 14.680000000000005,
+      "solve_time_s": 0.805,
+      "node_count": 1,
+      "status": 2,
+      "optimal": true,
+      "obj_val": 15.0,
+      "obj_bound": 15.0
+    }
+  }
+}
